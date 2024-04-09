@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**joaocottabadaro/joaocottabadaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I'm a Software Engineer with 5 years of experience, graduated in Computer Science from UFJF. I have contributed to projects from their initial stages, covering requirements analysis, development, deployment, and maintenance. My approach is highly collaborative, driven by the desire to gain different perspectives and enhance my creative process.
+
+
+### Contact
+
+- LinkedIn: [João Cotta Badaro](https://www.linkedin.com/in/joao-cotta-badaro/?locale=en_US)
+- Email: joaobadaro@gmail.com
